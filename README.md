@@ -1,5 +1,5 @@
 # Product_Store
-Functionalities- 
+Java Project performs the following functionalities- 
 1. Add a product
 2. Update the stock
 3. Display all products
